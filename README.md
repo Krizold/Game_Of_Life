@@ -1,4 +1,4 @@
-# # Game Of Life
+# Game Of Life
 
 Le Jeu de la Vie (Game of Life) est un automate cellulaire inventé par le mathématicien britannique John Horton Conway en 1970. Il s'agit d'un modèle mathématique qui simule l'évolution d'un ensemble de cellules vivantes sur une grille bidimensionnelle, en suivant un ensemble de règles simples.
 
